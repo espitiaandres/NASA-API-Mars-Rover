@@ -42,7 +42,7 @@ namespace WindowsFormsApp2
                 }
                 else
                 {
-                    DataDirectory = ":C\\";
+                    DataDirectory = "C:\\";
                 }
             }
             else
