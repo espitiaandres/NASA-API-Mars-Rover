@@ -1,0 +1,15 @@
+C:\Users\Andres\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\Andres\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\Andres\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\Andres\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Newtonsoft.Json.dll
+C:\Users\Andres\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Andres\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Newtonsoft.Json.xml
+C:\Users\Andres\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Andres\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Andres\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Andres\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Andres\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Andres\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Andres\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\Andres\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
